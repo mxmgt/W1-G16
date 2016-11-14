@@ -1,0 +1,74 @@
+Sevan, Pierre, Léa, Esteban
+
+Chef de projet :  ?
+Intés : Léa, Esteban, Sevan
+Créas : Pierre, Maxime
+Js : Pierre, Sevan
+Prez :  ?
+
+CONCEPT
+
+Composition d’une lunchbox avec calcul et affichage des micronutriments et calories.
+
+CIBLE
+
+On s’adresse à tout le monde.
+
+SERVICE PROPOSE
+
+Formule Lunchbox 1 : 
+Plat à composer (ex: 1 garniture + 2 accompagnements + 2 assaisonnements)
+1 boisson (ex: eau de source, thé glacé…)
+1 petit pain (ex : pain complet, boule bio…)
+1 dessert (ex: salade de fuit frais, verrines…)
+
+Formule Lunchbox 2 : 
+Plat à composer (ex: 1 garniture + 2 accompagnements + 2 assaisonnements)
+1 boisson (ex: eau de source, thé glacé…)
+
+Lunchbox hors formule : 
+Plat à composer (ex: 1 garniture + 2 accompagnements + 2 assaisonnements)
+
+Box précomposées ?
+
+LUNCHBOX - INGREDIENTS
+
+Garniture : Riz blanc ou complet, Quinoa, Salade, Pâtes
+Accompagnements : Légumineuse / Legumes (tomates, carottes, betteraves, champignons, courgettes, avocats, steak végétal) / Viande (poulet, saumon, oeufs, colin, boeuf)
+
+CONTENU
+
+1 page Principale ->
+	- Explication brève du concept (proposé?) : système de composition de lunchbox, exemples de box précomposées, étapes du processus (sélection de produits de qualités par nos soins, préparation des aliments, composition de la box, livraison rapide…)
+	- Vidéo de présentation
+	- CTA composer sa lb
+1 page Explication concept ->
+	- Explication détaillée des micronutriments : protéines, lipides etc…
+	- Traçabilité des aliments ; comment sont ils sélectionnés
+	- CTA composer sa lb
+1 page Interface composition lunchbox ->
+	- Interface avec choix de la formule, puis de la composition de la lunchbox. Un tableau 		affiche le total des calories et micronutriments totaux du plat (et du menu).
+	- CTA commander
+1 page Commander ->
+	- Map zone de livraison
+	- Entrer ses informations de livraison
+	- CTA poursuivre la commande
+1 page Panier ->
+	- Récapitulatif des produits dans le panier
+	- CTA commander
+
+[1 page d’Articles ->
+1 page Qui sommes-nous?]
+
+INSPIRATION GRAPHIQUE
+Photos d’aliments détourées
+Fond blanc + couleur primaire
+Couleurs primaires
+Blanc et niveaux de gris clairs
+Icônes fruits et légumes
+Illustrations en contours (travail sur les vides et les pleins)
+
+APPROCHE GRAPHIQUE
+
+BLANC + NIVEAUX DE GRIS CLAIRS + VERT
+Interface : icônes
